@@ -2,6 +2,7 @@
 import numpy as np
 import glob
 import os
+import uvicorn #type: ignore
 from io import BytesIO
 from PIL import Image
 from tensorflow import keras
@@ -29,7 +30,7 @@ def read_img(data):
     return img
 
 # Post request
-@app.post('/analysis')
+@app.post('/identify')
 async def pred(file: UploadFile = File(...)):
     img = read_img(await file.read())
 
