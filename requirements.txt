@@ -5,6 +5,9 @@ numpy==1.26.2
 pandas==2.1.4
 uvicorn==0.25.0
 fastapi==0.108.0
+streamlit==1.22.0
+protobuf==3.19.6
+python-multipart==0.0.6
 
 # Install the version of Tensorflow depending on your processor: darwin == Mac, ARM == M1
 tensorflow-macos==2.10.0; sys_platform == 'darwin' and 'ARM' in platform_version # Mac M-chips
