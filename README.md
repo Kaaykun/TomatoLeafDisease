@@ -3,7 +3,7 @@
 ## 🎯 Project Description ##
 Tomatoes are one of the most extensively grown vegetables in any country, and their diseases can significantly affect yield and quality. Accurate and early detection of tomato diseases is crucial for reducing losses and improving crop management.
 
-In this project, I will be appllying the power of Deep Learning to detect and classify the various stages of blight in tomato leaves, making automation of disease detection more efficient and accessible.
+In this project, I will be applying the power of Deep Learning to detect and classify the various stages of blight in tomato leaves, making automation of disease detection more efficient and accessible.
 
 ## 📃 The Dataset ## 
 The [dataset](https://www.kaggle.com/datasets/charuchaudhry/plantvillage-tomato-leaf-dataset/data) consists of 3 different folders, each containing images of tomato leaves with the respective syndroms:
