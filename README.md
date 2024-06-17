@@ -5,6 +5,9 @@ Tomatoes are one of the most extensively grown vegetables in any country, and th
 
 In this project, I will be applying the power of Deep Learning to detect and classify the various stages of blight in tomato leaves, making automation of disease detection more efficient and accessible.
 
+Checkout my app on Streamlit:
+[https://tomatoleafdisease.streamlit.app/](https://tomatoleafdisease.streamlit.app/)
+
 ## 📃 The Dataset ## 
 The [dataset](https://www.kaggle.com/datasets/charuchaudhry/plantvillage-tomato-leaf-dataset/data) consists of 3 different folders, each containing images of tomato leaves with the respective syndroms:
 
